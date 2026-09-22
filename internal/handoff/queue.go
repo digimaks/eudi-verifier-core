@@ -18,9 +18,9 @@ import (
 
 	crypto "github.com/gmb-eudi/go-eudi-crypto"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 	"github.com/gmb-eudi/go-verifier-helpers/handoffwire"
 
 	"github.com/redis/go-redis/v9"

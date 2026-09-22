@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 
 	"github.com/go-quicktest/qt"
 	"github.com/jackc/pgx/v5/pgxpool"

@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessions"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
+	"github.com/digimaks/eudi-verifier-core/internal/sessions"
 
 	dcql "github.com/gmb-eudi/go-dcql"
 	oid4vp "github.com/gmb-eudi/go-oid4vp"

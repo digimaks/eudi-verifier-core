@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
 )
 
 func TestNewNormalizes(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 
 	"azugo.io/azugo"

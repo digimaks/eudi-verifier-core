@@ -6,9 +6,9 @@ import (
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
 
 	"azugo.io/azugo"
 	"go.uber.org/zap"

@@ -13,7 +13,7 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
 )
 
 // Cache implements go-statuslist's Cache over Valkey. The interface key is the

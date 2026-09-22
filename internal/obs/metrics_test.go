@@ -8,7 +8,7 @@ import (
 	"github.com/VictoriaMetrics/metrics"
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
 )
 
 // Label values must come from closed sets (check enum × outcome enum) —

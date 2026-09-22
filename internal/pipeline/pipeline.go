@@ -14,8 +14,8 @@ import (
 	sdjwt "github.com/gmb-eudi/go-sdjwt"
 	statuslist "github.com/gmb-eudi/go-statuslist"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 )
 
 // Outcome is the per-check verdict recorded in the verification report.

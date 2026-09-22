@@ -21,8 +21,8 @@ import (
 	trust "github.com/gmb-eudi/go-eudi-trust"
 	statuslist "github.com/gmb-eudi/go-statuslist"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/anchors"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/anchors"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 
 	"github.com/alicebob/miniredis/v2"
 	"github.com/go-quicktest/qt"

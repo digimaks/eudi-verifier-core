@@ -3,7 +3,7 @@ package routes
 import (
 	"testing"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
 
 	"azugo.io/azugo"
 	"github.com/go-quicktest/qt"

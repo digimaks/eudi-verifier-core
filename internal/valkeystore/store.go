@@ -12,7 +12,7 @@ import (
 
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
 	"github.com/gmb-eudi/go-verifier-helpers/handoffwire"
 
 	"github.com/redis/go-redis/v9"

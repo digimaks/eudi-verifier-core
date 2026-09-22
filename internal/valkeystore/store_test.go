@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/valkeystore"
+	"github.com/digimaks/eudi-verifier-core/internal/valkeystore"
 	rpcert "github.com/gmb-eudi/go-eudi-rpcert"
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 	"github.com/gmb-eudi/go-oid4vp/storetest"

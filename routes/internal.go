@@ -14,9 +14,9 @@ import (
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessions"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
+	"github.com/digimaks/eudi-verifier-core/internal/sessions"
 
 	"azugo.io/azugo"
 	"github.com/valyala/fasthttp"

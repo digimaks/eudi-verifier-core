@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
 
 	"azugo.io/azugo"
 )

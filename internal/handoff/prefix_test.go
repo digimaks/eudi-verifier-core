@@ -12,10 +12,10 @@ import (
 	"github.com/go-quicktest/qt"
 	"github.com/redis/go-redis/v9"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/handoff"
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/handoff"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 )
 
 func TestQueueKeyPrefix(t *testing.T) {

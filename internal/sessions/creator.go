@@ -14,8 +14,8 @@ import (
 	rpcert "github.com/gmb-eudi/go-eudi-rpcert"
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 )
 
 // CreateInput is the in-process session-creation request (the internal HTTP

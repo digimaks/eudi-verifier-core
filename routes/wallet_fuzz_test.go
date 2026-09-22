@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 
 	dcql "github.com/gmb-eudi/go-dcql"
 	rpcert "github.com/gmb-eudi/go-eudi-rpcert"

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/statuscache"
+	"github.com/digimaks/eudi-verifier-core/internal/statuscache"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 
 	"github.com/alicebob/miniredis/v2"

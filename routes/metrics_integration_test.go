@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/testwallet"
+	"github.com/digimaks/eudi-verifier-core/internal/testwallet"
 
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 

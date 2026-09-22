@@ -12,9 +12,9 @@ import (
 
 	crypto "github.com/gmb-eudi/go-eudi-crypto"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/handoff"
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/handoff"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 
 	"github.com/alicebob/miniredis/v2"
 	"github.com/go-quicktest/qt"

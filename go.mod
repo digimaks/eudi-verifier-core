@@ -1,4 +1,4 @@
-module github.com/dativa-lv/eudi-verifier-core
+module github.com/digimaks/eudi-verifier-core
 
 go 1.27.0
 

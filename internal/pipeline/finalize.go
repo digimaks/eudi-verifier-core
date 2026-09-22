@@ -3,7 +3,7 @@ package pipeline
 import (
 	"context"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessiondb"
+	"github.com/digimaks/eudi-verifier-core/internal/sessiondb"
 )
 
 // Finalize delivers the result to the sink, then disposes of session-scoped

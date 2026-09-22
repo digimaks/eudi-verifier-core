@@ -3,7 +3,7 @@
 package routes
 
 import (
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
 )
 
 type router struct {

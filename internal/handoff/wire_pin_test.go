@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/handoff"
-	"github.com/dativa-lv/eudi-verifier-core/internal/pipeline"
+	"github.com/digimaks/eudi-verifier-core/internal/handoff"
+	"github.com/digimaks/eudi-verifier-core/internal/pipeline"
 	"github.com/gmb-eudi/go-verifier-helpers/handoffwire"
 
 	"github.com/go-quicktest/qt"

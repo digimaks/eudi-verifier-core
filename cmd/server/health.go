@@ -1,7 +1,7 @@
 package main
 
 import (
-	verifiercore "github.com/dativa-lv/eudi-verifier-core"
+	verifiercore "github.com/digimaks/eudi-verifier-core"
 
 	"azugo.io/azugo/server"
 	"azugo.io/core/cli"

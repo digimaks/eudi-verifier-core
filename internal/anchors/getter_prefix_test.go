@@ -8,8 +8,8 @@ import (
 	"github.com/go-quicktest/qt"
 	"github.com/redis/go-redis/v9"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/anchors"
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/anchors"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
 )
 
 // The reader must look where a prefixed worker writes — and nowhere else.

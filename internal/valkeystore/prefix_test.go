@@ -11,8 +11,8 @@ import (
 
 	oid4vp "github.com/gmb-eudi/go-oid4vp"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
-	"github.com/dativa-lv/eudi-verifier-core/internal/valkeystore"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/valkeystore"
 )
 
 // Every key the store writes lands under the configured prefix and nothing

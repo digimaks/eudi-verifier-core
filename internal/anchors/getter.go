@@ -8,7 +8,7 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
 )
 
 // RedisGetter adapts a go-redis client to trustcache.Getter (the stdlib-only

@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/policy"
-	"github.com/dativa-lv/eudi-verifier-core/internal/sessions"
-	"github.com/dativa-lv/eudi-verifier-core/internal/testwallet"
+	"github.com/digimaks/eudi-verifier-core/internal/policy"
+	"github.com/digimaks/eudi-verifier-core/internal/sessions"
+	"github.com/digimaks/eudi-verifier-core/internal/testwallet"
 
 	dcql "github.com/gmb-eudi/go-dcql"
 	oid4vp "github.com/gmb-eudi/go-oid4vp"

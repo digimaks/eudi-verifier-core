@@ -11,8 +11,8 @@ import (
 
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 
-	"github.com/dativa-lv/eudi-verifier-core/internal/keyspace"
-	"github.com/dativa-lv/eudi-verifier-core/internal/statuscache"
+	"github.com/digimaks/eudi-verifier-core/internal/keyspace"
+	"github.com/digimaks/eudi-verifier-core/internal/statuscache"
 )
 
 func TestStatusCacheKeyPrefix(t *testing.T) {
