@@ -1,0 +1,8 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+# The load-test/demo harness that used to live in perf/ (seed, loadgen, demo,
+# demoseed) has been retired, so this .dockerignore no longer needs a
+# perf/keys/ carve-out.
